@@ -59,3 +59,10 @@ body {
     flex-direction: column;
     text-align: center;
 }
+
+.contact-me
+{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: -28px;
+}
